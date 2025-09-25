@@ -2,8 +2,8 @@
 
 This repository contains my daily practice problems and their solutions in **Java**.  
 Each problem has:
-- A short problem statement (in my own words)
-- Example test cases
+- A problem statement
+- Test cases
 - My Java solution with sample outputs
 
 This repo helps me track my progress and improve my problem-solving skills.  
