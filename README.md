@@ -15,6 +15,7 @@ This repo helps me track my progress and improve my problem-solving skills.
 | # | Problem Title | Link          |
 |---|---------------|---------------|
 | 1 | Vowel Balance | [View Problem](./problem-01-vowel-balance) |
+| 2 | Base Check | [View Problem](./problem-02-base-check) |
 
 
 ---
