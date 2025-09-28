@@ -17,6 +17,7 @@ This repo helps me track my progress and improve my problem-solving skills.
 | 1 | Vowel Balance | [View Problem](./problem-01-vowel-balance) |
 | 2 | Base Check | [View Problem](./problem-02-base-check) |
 | 3 | SPACEJAM | [View Problem](./problem-03-spacejam) |
+| 4 | Jbelmud Text | [View Problem](./problem-04-jbelmud-text) |
 
 
 ---
