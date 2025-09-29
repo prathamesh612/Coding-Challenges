@@ -18,7 +18,7 @@ This repo helps me track my progress and improve my problem-solving skills.
 | 2 | Base Check | [View Problem](./problem-02-base-check) |
 | 3 | SPACEJAM | [View Problem](./problem-03-spacejam) |
 | 4 | Jbelmud Text | [View Problem](./problem-04-jbelmud-text) |
-
+| 5 | Anagram Checker | [View Problem](./problem-05-anagram-checker) |
 
 ---
 
