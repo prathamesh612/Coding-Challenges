@@ -20,6 +20,7 @@ This repo helps me track my progress and improve my problem-solving skills.
 | 4 | Jbelmud Text | [View Problem](./problem-04-jbelmud-text) |
 | 5 | Anagram Checker | [View Problem](./problem-05-anagram-checker) |
 | 6 | Targeted Sum | [View Problem](./problem-06-targeted-sum) |
+| 7 | Factorializer | [View Problem](./problem-07-factorializer) |
 
 ---
 
