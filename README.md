@@ -21,6 +21,7 @@ This repo helps me track my progress and improve my problem-solving skills.
 | 5 | Anagram Checker | [View Problem](./problem-05-anagram-checker) |
 | 6 | Targeted Sum | [View Problem](./problem-06-targeted-sum) |
 | 7 | Factorializer | [View Problem](./problem-07-factorializer) |
+| 8 | Sum of Squares | [View Problem](./problem-08-SumOfSquares) |
 
 ---
 
