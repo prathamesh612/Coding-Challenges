@@ -24,6 +24,7 @@ This repo helps me track my progress and improve my problem-solving skills.
 | 8   | Sum of Squares  | [View Problem](./problem-08-SumOfSquares)    |
 | 9   | 3 Strikes       | [View Problem](./problem-09-three-strikes)   |
 | 10  | Mile Pace       | [View Problem](./problem-10-mile-pace)       |
+| 11  | Message Decoder | [View Problem](./problem-11-message-decoder) |
 
 ---
 
