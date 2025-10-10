@@ -31,6 +31,7 @@ This repo helps me track my progress and improve my problem-solving skills.
 | 15  | Caught Speeding       | [View Problem](./problem-15-caught-speeding)      |
 | 16  | Unorder of Operations | [View Problem](./problem-16-unorderof-operations) |
 | 17  | Second Best           | [View Problem](./problem-17-second-best)          |
+| 17  | Second Best           | [View Problem](./problem-18-candlelight)          |
 
 ---
 
