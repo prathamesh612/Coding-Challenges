@@ -32,6 +32,7 @@ Each problem includes:
 | 17  | Second Best           | Medium     | [View](./problem-17-second-best)          |
 | 18  | Candlelight           | Medium     | [View](./problem-18-candlelight)          |
 | 19  | Array Duplicates      | Easy       | [View](./problem-19-array-duplicates)     |
+| 20  | Tribonacci Sequence   | Easy       | [View](./problem-20-tribonacci-sequence)  |
 
 ---
 
