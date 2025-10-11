@@ -33,6 +33,7 @@ Each problem includes:
 | 18  | Candlelight           | Medium     | [View](./problem-18-candlelight)          |
 | 19  | Array Duplicates      | Easy       | [View](./problem-19-array-duplicates)     |
 | 20  | Tribonacci Sequence   | Easy       | [View](./problem-20-tribonacci-sequence)  |
+| 21  | RGB to Hex            | Easy       | [View](./problem-21-rgb-to-hex)           |
 
 ---
 
@@ -60,8 +61,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 19
-- **Easy:** 14
+- **Total Problems Solved:** 21
+- **Easy:** 16
 - **Medium:** 5
 - **Hard:** 0
 
