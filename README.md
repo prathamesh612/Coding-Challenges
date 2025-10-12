@@ -34,6 +34,7 @@ Each problem includes:
 | 19  | Array Duplicates      | Easy       | [View](./problem-19-array-duplicates)     |
 | 20  | Tribonacci Sequence   | Easy       | [View](./problem-20-tribonacci-sequence)  |
 | 21  | RGB to Hex            | Easy       | [View](./problem-21-rgb-to-hex)           |
+| 22  | Vowel Repeater        | Medium     | [View](./problem-22-vowel-repeater)      |
 
 ---
 
@@ -61,9 +62,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 21
+- **Total Problems Solved:** 22
 - **Easy:** 16
-- **Medium:** 5
+- **Medium:** 6
 - **Hard:** 0
 
 ---
