@@ -36,6 +36,8 @@ Each problem includes:
 | 21  | RGB to Hex            | Easy       | [View](./problem-21-rgb-to-hex)           |
 | 22  | Vowel Repeater        | Medium     | [View](./problem-22-vowel-repeater)       |
 | 23  | IPv4 Validator        | Medium     | [View](./problem-23-ipv4-validator)       |
+| 24  | Matrix Rotate         | Medium     | [View](./problem-24-matrix-rotate)       |
+
 ---
 
 ## 🛠️ How to Run
@@ -62,9 +64,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 23
+- **Total Problems Solved:** 24
 - **Easy:** 16
-- **Medium:** 7
+- **Medium:** 8
 - **Hard:** 0
 
 ---
