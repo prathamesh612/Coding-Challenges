@@ -38,6 +38,7 @@ Each problem includes:
 | 23  | IPv4 Validator        | Medium     | [View](./problem-23-ipv4-validator)       |
 | 24  | Matrix Rotate         | Medium     | [View](./problem-24-matrix-rotate)        |
 | 25  | Roman Numeral Parser  | Medium     | [View](./problem-25-roman-numeral-parser) |
+| 26  | Acronym Builder       | Easy       | [View](./problem-26-acronym-builder)      |
 
 ---
 
@@ -65,8 +66,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 25
-- **Easy:** 16
+- **Total Problems Solved:** 26
+- **Easy:** 17
 - **Medium:** 9
 - **Hard:** 0
 
