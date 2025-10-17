@@ -41,6 +41,7 @@ Each problem includes:
 | 26  | Acronym Builder       | Easy       | [View](./problem-26-acronym-builder)      |
 | 27  | Unique Characters     | Easy       | [View](./problem-27-unique-characters)    |
 | 28  | Array Diff            | Medium     | [View](./problem-28-array-diff)           |
+| 29  | Reverse Sentence      | Easy       | [View](./problem-29-reverse-sentence)     |
 
 ---
 
@@ -68,8 +69,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 28
-- **Easy:** 18
+- **Total Problems Solved:** 29
+- **Easy:** 19
 - **Medium:** 10
 - **Hard:** 0
 
