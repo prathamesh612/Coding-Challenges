@@ -40,6 +40,7 @@ Each problem includes:
 | 25  | Roman Numeral Parser  | Medium     | [View](./problem-25-roman-numeral-parser) |
 | 26  | Acronym Builder       | Easy       | [View](./problem-26-acronym-builder)      |
 | 27  | Unique Characters     | Easy       | [View](./problem-27-unique-characters)    |
+| 28  | Array Diff            | Medium     | [View](./problem-28-array-diff)           |
 
 ---
 
@@ -67,9 +68,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 27
+- **Total Problems Solved:** 28
 - **Easy:** 18
-- **Medium:** 9
+- **Medium:** 10
 - **Hard:** 0
 
 ---
