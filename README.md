@@ -42,6 +42,7 @@ Each problem includes:
 | 27  | Unique Characters     | Easy       | [View](./problem-27-unique-characters)    |
 | 28  | Array Diff            | Medium     | [View](./problem-28-array-diff)           |
 | 29  | Reverse Sentence      | Easy       | [View](./problem-29-reverse-sentence)     |
+| 30  | Screen Time           | Medium     | [View](./problem-30-screen-time)          |
 
 ---
 
@@ -69,9 +70,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 29
+- **Total Problems Solved:** 30
 - **Easy:** 19
-- **Medium:** 10
+- **Medium:** 11
 - **Hard:** 0
 
 ---
