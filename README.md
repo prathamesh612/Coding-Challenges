@@ -43,6 +43,7 @@ Each problem includes:
 | 28  | Array Diff            | Medium     | [View](./problem-28-array-diff)           |
 | 29  | Reverse Sentence      | Easy       | [View](./problem-29-reverse-sentence)     |
 | 30  | Screen Time           | Medium     | [View](./problem-30-screen-time)          |
+| 31  | Sentence Capitalizer  | Easy       | [View](./problem-31-sentence-capitalizer) |
 
 ---
 
@@ -70,8 +71,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 30
-- **Easy:** 19
+- **Total Problems Solved:** 31
+- **Easy:** 20
 - **Medium:** 11
 - **Hard:** 0
 
