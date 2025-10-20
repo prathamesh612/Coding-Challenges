@@ -45,6 +45,7 @@ Each problem includes:
 | 30  | Screen Time           | Medium     | [View](./problem-30-screen-time)          |
 | 31  | Sentence Capitalizer  | Easy       | [View](./problem-31-sentence-capitalizer) |
 | 32  | Fill The Tank         | Easy       | [View](./problem-32-fill-the-tank)        |
+| 33  | Digits vs Letters     | Easy       | [View](./problem-33-digits-vs-letters)    |
 
 ---
 
@@ -72,8 +73,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 32
-- **Easy:** 21
+- **Total Problems Solved:** 33
+- **Easy:** 22
 - **Medium:** 11
 - **Hard:** 0
 
