@@ -46,6 +46,7 @@ Each problem includes:
 | 31  | Sentence Capitalizer  | Easy       | [View](./problem-31-sentence-capitalizer) |
 | 32  | Fill The Tank         | Easy       | [View](./problem-32-fill-the-tank)        |
 | 33  | Digits vs Letters     | Easy       | [View](./problem-33-digits-vs-letters)    |
+| 34  | String Mirror         | Easy       | [View](./problem-34-string-mirror)        |
 
 ---
 
@@ -73,8 +74,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 33
-- **Easy:** 22
+- **Total Problems Solved:** 34
+- **Easy:** 23
 - **Medium:** 11
 - **Hard:** 0
 
