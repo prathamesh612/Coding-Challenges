@@ -47,6 +47,7 @@ Each problem includes:
 | 32  | Fill The Tank         | Easy       | [View](./problem-32-fill-the-tank)        |
 | 33  | Digits vs Letters     | Easy       | [View](./problem-33-digits-vs-letters)    |
 | 34  | String Mirror         | Easy       | [View](./problem-34-string-mirror)        |
+| 35  | Perfect Square        | Easy       | [View](./problem-35-perfect-square)       |
 
 ---
 
@@ -74,8 +75,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 34
-- **Easy:** 23
+- **Total Problems Solved:** 35
+- **Easy:** 24
 - **Medium:** 11
 - **Hard:** 0
 
