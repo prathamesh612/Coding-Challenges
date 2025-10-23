@@ -48,6 +48,7 @@ Each problem includes:
 | 33  | Digits vs Letters     | Easy       | [View](./problem-33-digits-vs-letters)    |
 | 34  | String Mirror         | Easy       | [View](./problem-34-string-mirror)        |
 | 35  | Perfect Square        | Easy       | [View](./problem-35-perfect-square)       |
+| 36  | P@ssw0rd Str3ngth!    | Medium     | [View](./problem-36-password-strength)    |
 
 ---
 
@@ -75,9 +76,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 35
+- **Total Problems Solved:** 36
 - **Easy:** 24
-- **Medium:** 11
+- **Medium:** 12
 - **Hard:** 0
 
 ---
