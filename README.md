@@ -49,6 +49,7 @@ Each problem includes:
 | 34  | String Mirror         | Easy       | [View](./problem-34-string-mirror)        |
 | 35  | Perfect Square        | Easy       | [View](./problem-35-perfect-square)       |
 | 36  | P@ssw0rd Str3ngth!    | Medium     | [View](./problem-36-password-strength)    |
+| 37  | Battle of Words       | Medium     | [View](./problem-37-battle-of-words)      |
 
 ---
 
@@ -76,9 +77,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 36
+- **Total Problems Solved:** 37
 - **Easy:** 24
-- **Medium:** 12
+- **Medium:** 13
 - **Hard:** 0
 
 ---
