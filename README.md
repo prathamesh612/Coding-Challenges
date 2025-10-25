@@ -50,6 +50,7 @@ Each problem includes:
 | 35  | Perfect Square        | Easy       | [View](./problem-35-perfect-square)       |
 | 36  | P@ssw0rd Str3ngth!    | Medium     | [View](./problem-36-password-strength)    |
 | 37  | Battle of Words       | Medium     | [View](./problem-37-battle-of-words)      |
+| 38  | HTML Tag Stripper     | Easy       | [View](./problem-38-html-tag-stripper)    |
 
 ---
 
@@ -77,8 +78,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 37
-- **Easy:** 24
+- **Total Problems Solved:** 38
+- **Easy:** 25
 - **Medium:** 13
 - **Hard:** 0
 
