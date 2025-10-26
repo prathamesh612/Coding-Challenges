@@ -51,6 +51,7 @@ Each problem includes:
 | 36  | P@ssw0rd Str3ngth!    | Medium     | [View](./problem-36-password-strength)    |
 | 37  | Battle of Words       | Medium     | [View](./problem-37-battle-of-words)      |
 | 38  | HTML Tag Stripper     | Easy       | [View](./problem-38-html-tag-stripper)    |
+| 39  | Email Validator       | Medium     | [View](./problem-39-email-validator)      |
 
 ---
 
@@ -78,9 +79,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 38
+- **Total Problems Solved:** 39
 - **Easy:** 25
-- **Medium:** 13
+- **Medium:** 14
 - **Hard:** 0
 
 ---
