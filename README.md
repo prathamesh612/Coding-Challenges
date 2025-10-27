@@ -52,6 +52,7 @@ Each problem includes:
 | 37  | Battle of Words       | Medium     | [View](./problem-37-battle-of-words)      |
 | 38  | HTML Tag Stripper     | Easy       | [View](./problem-38-html-tag-stripper)    |
 | 39  | Email Validator       | Medium     | [View](./problem-39-email-validator)      |
+| 40  | Complementary DNA     | Easy       | [View](./problem-40-complementary-dna)    |
 
 ---
 
@@ -79,8 +80,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 39
-- **Easy:** 25
+- **Total Problems Solved:** 40
+- **Easy:** 26
 - **Medium:** 14
 - **Hard:** 0
 
