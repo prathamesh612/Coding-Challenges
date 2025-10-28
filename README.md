@@ -53,6 +53,7 @@ Each problem includes:
 | 38  | HTML Tag Stripper     | Easy       | [View](./problem-38-html-tag-stripper)    |
 | 39  | Email Validator       | Medium     | [View](./problem-39-email-validator)      |
 | 40  | Complementary DNA     | Easy       | [View](./problem-40-complementary-dna)    |
+| 41  | Longest Substring     | Medium     | [View](./problem-41-longest-substring)    |
 
 ---
 
@@ -80,9 +81,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 41
 - **Easy:** 26
-- **Medium:** 14
+- **Medium:** 15
 - **Hard:** 0
 
 ---
