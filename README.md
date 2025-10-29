@@ -54,6 +54,7 @@ Each problem includes:
 | 39  | Email Validator       | Medium     | [View](./problem-39-email-validator)      |
 | 40  | Complementary DNA     | Easy       | [View](./problem-40-complementary-dna)    |
 | 41  | Longest Substring     | Medium     | [View](./problem-41-longest-substring)    |
+| 42  | Integer Sequence      | Easy       | [View](./problem-42-integer-sequence)     |
 
 ---
 
@@ -81,8 +82,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 41
-- **Easy:** 26
+- **Total Problems Solved:** 42
+- **Easy:** 27
 - **Medium:** 15
 - **Hard:** 0
 
