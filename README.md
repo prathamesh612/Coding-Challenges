@@ -55,6 +55,7 @@ Each problem includes:
 | 40  | Complementary DNA     | Easy       | [View](./problem-40-complementary-dna)    |
 | 41  | Longest Substring     | Medium     | [View](./problem-41-longest-substring)    |
 | 42  | Integer Sequence      | Easy       | [View](./problem-42-integer-sequence)     |
+| 43  | Nth Prime             | Medium     | [View](./problem-43-nth-prime)            |
 
 ---
 
@@ -82,9 +83,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 42
+- **Total Problems Solved:** 43
 - **Easy:** 27
-- **Medium:** 15
+- **Medium:** 16
 - **Hard:** 0
 
 ---
