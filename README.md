@@ -56,6 +56,7 @@ Each problem includes:
 | 41  | Longest Substring     | Medium     | [View](./problem-41-longest-substring)    |
 | 42  | Integer Sequence      | Easy       | [View](./problem-42-integer-sequence)     |
 | 43  | Nth Prime             | Medium     | [View](./problem-43-nth-prime)            |
+| 44  | Two Sum Optimized     | Medium     | [View](./problem-44-two-sum-optimized)    |
 
 ---
 
@@ -83,9 +84,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 43
+- **Total Problems Solved:** 44
 - **Easy:** 27
-- **Medium:** 16
+- **Medium:** 17
 - **Hard:** 0
 
 ---
