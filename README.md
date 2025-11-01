@@ -57,6 +57,7 @@ Each problem includes:
 | 42  | Integer Sequence      | Easy       | [View](./problem-42-integer-sequence)     |
 | 43  | Nth Prime             | Medium     | [View](./problem-43-nth-prime)            |
 | 44  | Two Sum Optimized     | Medium     | [View](./problem-44-two-sum-optimized)    |
+| 45  | Merge Intervals       | Medium     | [View](./problem-45-merge-intervals)      |
 
 ---
 
@@ -84,9 +85,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 44
+- **Total Problems Solved:** 45
 - **Easy:** 27
-- **Medium:** 17
+- **Medium:** 18
 - **Hard:** 0
 
 ---
