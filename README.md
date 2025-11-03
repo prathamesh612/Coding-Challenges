@@ -59,6 +59,7 @@ Each problem includes:
 | 44  | Two Sum Optimized     | Medium     | [View](./problem-44-two-sum-optimized)    |
 | 45  | Merge Intervals       | Medium     | [View](./problem-45-merge-intervals)      |
 | 46  | Spiral Matrix         | Medium     | [View](./problem-46-spiral-matrix)        |
+| 47  | Diagonal Sum          | Easy       | [View](./problem-47-diagonal-sum)         |
 
 ---
 
@@ -86,8 +87,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 46
-- **Easy:** 27
+- **Total Problems Solved:** 47
+- **Easy:** 28
 - **Medium:** 19
 - **Hard:** 0
 
