@@ -11,55 +11,56 @@ Each problem includes:
 
 ## 📖 Problem Index
 
-| #   | Problem Title         | Difficulty | Link                                      |
-| --- | --------------------- | ---------- | ----------------------------------------- |
-| 1   | Vowel Balance         | Easy       | [View](./problem-01-vowel-balance)        |
-| 2   | Base Check            | Easy       | [View](./problem-02-base-check)           |
-| 3   | SPACEJAM              | Easy       | [View](./problem-03-spacejam)             |
-| 4   | Jbelmud Text          | Easy       | [View](./problem-04-jbelmud-text)         |
-| 5   | Anagram Checker       | Easy       | [View](./problem-05-anagram-checker)      |
-| 6   | Targeted Sum          | Medium     | [View](./problem-06-targeted-sum)         |
-| 7   | Factorializer         | Easy       | [View](./problem-07-factorializer)        |
-| 8   | Sum of Squares        | Easy       | [View](./problem-08-SumOfSquares)         |
-| 9   | 3 Strikes             | Easy       | [View](./problem-09-three-strikes)        |
-| 10  | Mile Pace             | Easy       | [View](./problem-10-mile-pace)            |
-| 11  | Message Decoder       | Easy       | [View](./problem-11-message-decoder)      |
-| 12  | Unnatural Prime       | Easy       | [View](./problem-12-unnatural-prime)      |
-| 13  | Character Battle      | Medium     | [View](./problem-13-character-battle)     |
-| 14  | camelCase Converter   | Easy       | [View](./problem-14-camelcase-converter)  |
-| 15  | Caught Speeding       | Easy       | [View](./problem-15-caught-speeding)      |
-| 16  | Unorder of Operations | Medium     | [View](./problem-16-unorderof-operations) |
-| 17  | Second Best           | Medium     | [View](./problem-17-second-best)          |
-| 18  | Candlelight           | Medium     | [View](./problem-18-candlelight)          |
-| 19  | Array Duplicates      | Easy       | [View](./problem-19-array-duplicates)     |
-| 20  | Tribonacci Sequence   | Easy       | [View](./problem-20-tribonacci-sequence)  |
-| 21  | RGB to Hex            | Easy       | [View](./problem-21-rgb-to-hex)           |
-| 22  | Vowel Repeater        | Medium     | [View](./problem-22-vowel-repeater)       |
-| 23  | IPv4 Validator        | Medium     | [View](./problem-23-ipv4-validator)       |
-| 24  | Matrix Rotate         | Medium     | [View](./problem-24-matrix-rotate)        |
-| 25  | Roman Numeral Parser  | Medium     | [View](./problem-25-roman-numeral-parser) |
-| 26  | Acronym Builder       | Easy       | [View](./problem-26-acronym-builder)      |
-| 27  | Unique Characters     | Easy       | [View](./problem-27-unique-characters)    |
-| 28  | Array Diff            | Medium     | [View](./problem-28-array-diff)           |
-| 29  | Reverse Sentence      | Easy       | [View](./problem-29-reverse-sentence)     |
-| 30  | Screen Time           | Medium     | [View](./problem-30-screen-time)          |
-| 31  | Sentence Capitalizer  | Easy       | [View](./problem-31-sentence-capitalizer) |
-| 32  | Fill The Tank         | Easy       | [View](./problem-32-fill-the-tank)        |
-| 33  | Digits vs Letters     | Easy       | [View](./problem-33-digits-vs-letters)    |
-| 34  | String Mirror         | Easy       | [View](./problem-34-string-mirror)        |
-| 35  | Perfect Square        | Easy       | [View](./problem-35-perfect-square)       |
-| 36  | P@ssw0rd Str3ngth!    | Medium     | [View](./problem-36-password-strength)    |
-| 37  | Battle of Words       | Medium     | [View](./problem-37-battle-of-words)      |
-| 38  | HTML Tag Stripper     | Easy       | [View](./problem-38-html-tag-stripper)    |
-| 39  | Email Validator       | Medium     | [View](./problem-39-email-validator)      |
-| 40  | Complementary DNA     | Easy       | [View](./problem-40-complementary-dna)    |
-| 41  | Longest Substring     | Medium     | [View](./problem-41-longest-substring)    |
-| 42  | Integer Sequence      | Easy       | [View](./problem-42-integer-sequence)     |
-| 43  | Nth Prime             | Medium     | [View](./problem-43-nth-prime)            |
-| 44  | Two Sum Optimized     | Medium     | [View](./problem-44-two-sum-optimized)    |
-| 45  | Merge Intervals       | Medium     | [View](./problem-45-merge-intervals)      |
-| 46  | Spiral Matrix         | Medium     | [View](./problem-46-spiral-matrix)        |
-| 47  | Diagonal Sum          | Easy       | [View](./problem-47-diagonal-sum)         |
+| #   | Problem Title           | Difficulty | Link                                      |
+| --- | ----------------------- | ---------- | ----------------------------------------- |
+| 1   | Vowel Balance           | Easy       | [View](./problem-01-vowel-balance)        |
+| 2   | Base Check              | Easy       | [View](./problem-02-base-check)           |
+| 3   | SPACEJAM                | Easy       | [View](./problem-03-spacejam)             |
+| 4   | Jbelmud Text            | Easy       | [View](./problem-04-jbelmud-text)         |
+| 5   | Anagram Checker         | Easy       | [View](./problem-05-anagram-checker)      |
+| 6   | Targeted Sum            | Medium     | [View](./problem-06-targeted-sum)         |
+| 7   | Factorializer           | Easy       | [View](./problem-07-factorializer)        |
+| 8   | Sum of Squares          | Easy       | [View](./problem-08-SumOfSquares)         |
+| 9   | 3 Strikes               | Easy       | [View](./problem-09-three-strikes)        |
+| 10  | Mile Pace               | Easy       | [View](./problem-10-mile-pace)            |
+| 11  | Message Decoder         | Easy       | [View](./problem-11-message-decoder)      |
+| 12  | Unnatural Prime         | Easy       | [View](./problem-12-unnatural-prime)      |
+| 13  | Character Battle        | Medium     | [View](./problem-13-character-battle)     |
+| 14  | camelCase Converter     | Easy       | [View](./problem-14-camelcase-converter)  |
+| 15  | Caught Speeding         | Easy       | [View](./problem-15-caught-speeding)      |
+| 16  | Unorder of Operations   | Medium     | [View](./problem-16-unorderof-operations) |
+| 17  | Second Best             | Medium     | [View](./problem-17-second-best)          |
+| 18  | Candlelight             | Medium     | [View](./problem-18-candlelight)          |
+| 19  | Array Duplicates        | Easy       | [View](./problem-19-array-duplicates)     |
+| 20  | Tribonacci Sequence     | Easy       | [View](./problem-20-tribonacci-sequence)  |
+| 21  | RGB to Hex              | Easy       | [View](./problem-21-rgb-to-hex)           |
+| 22  | Vowel Repeater          | Medium     | [View](./problem-22-vowel-repeater)       |
+| 23  | IPv4 Validator          | Medium     | [View](./problem-23-ipv4-validator)       |
+| 24  | Matrix Rotate           | Medium     | [View](./problem-24-matrix-rotate)        |
+| 25  | Roman Numeral Parser    | Medium     | [View](./problem-25-roman-numeral-parser) |
+| 26  | Acronym Builder         | Easy       | [View](./problem-26-acronym-builder)      |
+| 27  | Unique Characters       | Easy       | [View](./problem-27-unique-characters)    |
+| 28  | Array Diff              | Medium     | [View](./problem-28-array-diff)           |
+| 29  | Reverse Sentence        | Easy       | [View](./problem-29-reverse-sentence)     |
+| 30  | Screen Time             | Medium     | [View](./problem-30-screen-time)          |
+| 31  | Sentence Capitalizer    | Easy       | [View](./problem-31-sentence-capitalizer) |
+| 32  | Fill The Tank           | Easy       | [View](./problem-32-fill-the-tank)        |
+| 33  | Digits vs Letters       | Easy       | [View](./problem-33-digits-vs-letters)    |
+| 34  | String Mirror           | Easy       | [View](./problem-34-string-mirror)        |
+| 35  | Perfect Square          | Easy       | [View](./problem-35-perfect-square)       |
+| 36  | P@ssw0rd Str3ngth!      | Medium     | [View](./problem-36-password-strength)    |
+| 37  | Battle of Words         | Medium     | [View](./problem-37-battle-of-words)      |
+| 38  | HTML Tag Stripper       | Easy       | [View](./problem-38-html-tag-stripper)    |
+| 39  | Email Validator         | Medium     | [View](./problem-39-email-validator)      |
+| 40  | Complementary DNA       | Easy       | [View](./problem-40-complementary-dna)    |
+| 41  | Longest Substring       | Medium     | [View](./problem-41-longest-substring)    |
+| 42  | Integer Sequence        | Easy       | [View](./problem-42-integer-sequence)     |
+| 43  | Nth Prime               | Medium     | [View](./problem-43-nth-prime)            |
+| 44  | Two Sum Optimized       | Medium     | [View](./problem-44-two-sum-optimized)    |
+| 45  | Merge Intervals         | Medium     | [View](./problem-45-merge-intervals)      |
+| 46  | Spiral Matrix           | Medium     | [View](./problem-46-spiral-matrix)        |
+| 47  | Diagonal Sum            | Easy       | [View](./problem-47-diagonal-sum)         |
+| 48  | Search In Sorted Matrix | Medium     | [View](./problem-48-search-sorted-matrix) |
 
 ---
 
@@ -87,9 +88,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 48
 - **Easy:** 28
-- **Medium:** 19
+- **Medium:** 20
 - **Hard:** 0
 
 ---
