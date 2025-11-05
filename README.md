@@ -61,7 +61,7 @@ Each problem includes:
 | 46  | Spiral Matrix           | Medium     | [View](./problem-46-spiral-matrix)        |
 | 47  | Diagonal Sum            | Easy       | [View](./problem-47-diagonal-sum)         |
 | 48  | Search In Sorted Matrix | Medium     | [View](./problem-48-search-sorted-matrix) |
-
+| 49  | Nth Fibonacci DP        | Medium     | [View](./problem-49-nth-fibonacci-dp)     |
 ---
 
 ## 🛠️ How to Run
@@ -88,9 +88,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 48
+- **Total Problems Solved:** 49
 - **Easy:** 28
-- **Medium:** 20
+- **Medium:** 21F
 - **Hard:** 0
 
 ---
