@@ -62,6 +62,8 @@ Each problem includes:
 | 47  | Diagonal Sum            | Easy       | [View](./problem-47-diagonal-sum)         |
 | 48  | Search In Sorted Matrix | Medium     | [View](./problem-48-search-sorted-matrix) |
 | 49  | Nth Fibonacci DP        | Medium     | [View](./problem-49-nth-fibonacci-dp)     |
+| 50  | Top K Frequent Elements | Medium     | [View](./problem-50-top-k-frequent)       |
+
 ---
 
 ## 🛠️ How to Run
@@ -88,9 +90,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 49
+- **Total Problems Solved:** 50
 - **Easy:** 28
-- **Medium:** 21F
+- **Medium:** 22
 - **Hard:** 0
 
 ---
