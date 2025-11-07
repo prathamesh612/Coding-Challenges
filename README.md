@@ -63,6 +63,7 @@ Each problem includes:
 | 48  | Search In Sorted Matrix | Medium     | [View](./problem-48-search-sorted-matrix) |
 | 49  | Nth Fibonacci DP        | Medium     | [View](./problem-49-nth-fibonacci-dp)     |
 | 50  | Top K Frequent Elements | Medium     | [View](./problem-50-top-k-frequent)       |
+| 51  | Valid Sudoku            | Medium     | [View](./problem-51-valid-sudoku)         |
 
 ---
 
@@ -90,9 +91,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 50
+- **Total Problems Solved:** 51
 - **Easy:** 28
-- **Medium:** 22
+- **Medium:** 23
 - **Hard:** 0
 
 ---
