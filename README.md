@@ -64,6 +64,7 @@ Each problem includes:
 | 49  | Nth Fibonacci DP        | Medium     | [View](./problem-49-nth-fibonacci-dp)     |
 | 50  | Top K Frequent Elements | Medium     | [View](./problem-50-top-k-frequent)       |
 | 51  | Valid Sudoku            | Medium     | [View](./problem-51-valid-sudoku)         |
+| 52  | Coin Change Ways        | Medium     | [View](./problem-52-coin-change-ways)     |
 
 ---
 
@@ -91,9 +92,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 51
+- **Total Problems Solved:** 52
 - **Easy:** 28
-- **Medium:** 23
+- **Medium:** 24
 - **Hard:** 0
 
 ---
