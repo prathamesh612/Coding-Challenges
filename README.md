@@ -65,6 +65,7 @@ Each problem includes:
 | 50  | Top K Frequent Elements | Medium     | [View](./problem-50-top-k-frequent)       |
 | 51  | Valid Sudoku            | Medium     | [View](./problem-51-valid-sudoku)         |
 | 52  | Coin Change Ways        | Medium     | [View](./problem-52-coin-change-ways)     |
+| 53  | Coin Change Min         | Medium     | [View](./problem-53-coin-change-min)      |
 
 ---
 
@@ -92,9 +93,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 52
+- **Total Problems Solved:** 53
 - **Easy:** 28
-- **Medium:** 24
+- **Medium:** 25
 - **Hard:** 0
 
 ---
