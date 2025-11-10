@@ -66,6 +66,7 @@ Each problem includes:
 | 51  | Valid Sudoku            | Medium     | [View](./problem-51-valid-sudoku)         |
 | 52  | Coin Change Ways        | Medium     | [View](./problem-52-coin-change-ways)     |
 | 53  | Coin Change Min         | Medium     | [View](./problem-53-coin-change-min)      |
+| 54  | Subset Sum Problem      | Medium     | [View](./problem-54-subset-sum)           |
 
 ---
 
@@ -93,9 +94,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 53
+- **Total Problems Solved:** 54
 - **Easy:** 28
-- **Medium:** 25
+- **Medium:** 26
 - **Hard:** 0
 
 ---
