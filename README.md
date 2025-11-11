@@ -67,6 +67,7 @@ Each problem includes:
 | 52  | Coin Change Ways        | Medium     | [View](./problem-52-coin-change-ways)     |
 | 53  | Coin Change Min         | Medium     | [View](./problem-53-coin-change-min)      |
 | 54  | Subset Sum Problem      | Medium     | [View](./problem-54-subset-sum)           |
+| 55  | 0-1 Knapsack Problem    | Medium     | [View](./problem-55-knapsack)             |
 
 ---
 
@@ -94,9 +95,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 54
+- **Total Problems Solved:** 55
 - **Easy:** 28
-- **Medium:** 26
+- **Medium:** 27
 - **Hard:** 0
 
 ---
