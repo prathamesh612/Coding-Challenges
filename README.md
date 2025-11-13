@@ -69,6 +69,7 @@ Each problem includes:
 | 54  | Subset Sum Problem      | Medium     | [View](./problem-54-subset-sum)           |
 | 55  | 0-1 Knapsack Problem    | Medium     | [View](./problem-55-knapsack)             |
 | 56  | Fractional Knapsack     | Medium     | [View](./problem-56-fractional-knapsack)  |
+| 57  | Lucky Number Check      | Easy       | [View](./problem-57-lucky-number-check)   |
 
 ---
 
@@ -96,8 +97,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 56
-- **Easy:** 28
+- **Total Problems Solved:** 57
+- **Easy:** 29
 - **Medium:** 28
 - **Hard:** 0
 
