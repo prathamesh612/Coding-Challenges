@@ -70,6 +70,7 @@ Each problem includes:
 | 55  | 0-1 Knapsack Problem    | Medium     | [View](./problem-55-knapsack)             |
 | 56  | Fractional Knapsack     | Medium     | [View](./problem-56-fractional-knapsack)  |
 | 57  | Lucky Number Check      | Easy       | [View](./problem-57-lucky-number-check)   |
+| 58  | Find Duplicate Number   | Medium     | [View](./problem-58-find-duplicate)       |
 
 ---
 
@@ -97,9 +98,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 57
+- **Total Problems Solved:** 58
 - **Easy:** 29
-- **Medium:** 28
+- **Medium:** 29
 - **Hard:** 0
 
 ---
