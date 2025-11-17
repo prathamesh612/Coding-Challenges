@@ -73,6 +73,8 @@ Each problem includes:
 | 58  | Find Duplicate Number      | Medium     | [View](./problem-58-find-duplicate)             |
 | 59  | Longest Common Subsequence | Medium     | [View](./problem-59-longest-common-subsequence) |
 | 60  | House Robber               | Medium     | [View](./problem-60-house-robber)               |
+| 61  | Three Sum                  | Medium     | [View](./problem-61-three-sum)                  |
+
 ---
 
 ## 🛠️ How to Run
@@ -99,9 +101,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 60
+- **Total Problems Solved:** 61
 - **Easy:** 29
-- **Medium:** 31
+- **Medium:** 32
 - **Hard:** 0
 
 ---
