@@ -75,6 +75,7 @@ Each problem includes:
 | 60  | House Robber                     | Medium     | [View](./problem-60-house-robber)               |
 | 61  | Three Sum                        | Medium     | [View](./problem-61-three-sum)                  |
 | 62  | Evaluate Reverse Polish Notation | Medium     | [View](./problem-62-eval-rpn)                   |
+| 63  | Longest Palindromic Substring    | Medium     | [View](./problem-63-longest-palindrome)         |
 
 ---
 
@@ -102,9 +103,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 62
+- **Total Problems Solved:** 63
 - **Easy:** 29
-- **Medium:** 33
+- **Medium:** 34
 - **Hard:** 0
 
 ---
