@@ -76,6 +76,7 @@ Each problem includes:
 | 61  | Three Sum                        | Medium     | [View](./problem-61-three-sum)                  |
 | 62  | Evaluate Reverse Polish Notation | Medium     | [View](./problem-62-eval-rpn)                   |
 | 63  | Longest Palindromic Substring    | Medium     | [View](./problem-63-longest-palindrome)         |
+| 64  | String to Integer                | Medium     | [View](./problem-64-string-to-integer)          |
 
 ---
 
@@ -103,9 +104,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 63
+- **Total Problems Solved:** 64
 - **Easy:** 29
-- **Medium:** 34
+- **Medium:** 35
 - **Hard:** 0
 
 ---
