@@ -77,6 +77,7 @@ Each problem includes:
 | 62  | Evaluate Reverse Polish Notation | Medium     | [View](./problem-62-eval-rpn)                   |
 | 63  | Longest Palindromic Substring    | Medium     | [View](./problem-63-longest-palindrome)         |
 | 64  | String to Integer                | Medium     | [View](./problem-64-string-to-integer)          |
+| 65  | Set Matrix Zeroes                | Medium     | [View](./problem-65-set-matrix-zeroes)          |
 
 ---
 
@@ -104,9 +105,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 64
+- **Total Problems Solved:** 65
 - **Easy:** 29
-- **Medium:** 35
+- **Medium:** 36
 - **Hard:** 0
 
 ---
