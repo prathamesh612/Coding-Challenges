@@ -78,6 +78,7 @@ Each problem includes:
 | 63  | Longest Palindromic Substring    | Medium     | [View](./problem-63-longest-palindrome)         |
 | 64  | String to Integer                | Medium     | [View](./problem-64-string-to-integer)          |
 | 65  | Set Matrix Zeroes                | Medium     | [View](./problem-65-set-matrix-zeroes)          |
+| 66  | Find Peak Element                | Medium     | [View](./problem-66-find-peak-element)          |
 
 ---
 
@@ -105,9 +106,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 65
+- **Total Problems Solved:** 66
 - **Easy:** 29
-- **Medium:** 36
+- **Medium:** 37
 - **Hard:** 0
 
 ---
