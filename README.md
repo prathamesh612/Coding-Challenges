@@ -79,7 +79,7 @@ Each problem includes:
 | 64  | String to Integer                | Medium     | [View](./problem-64-string-to-integer)          |
 | 65  | Set Matrix Zeroes                | Medium     | [View](./problem-65-set-matrix-zeroes)          |
 | 66  | Find Peak Element                | Medium     | [View](./problem-66-find-peak-element)          |
-
+| 67  | Container With Most Water        | Medium     | [View](./problem-67-container-water)            |
 ---
 
 ## 🛠️ How to Run
@@ -106,9 +106,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 66
+- **Total Problems Solved:** 67
 - **Easy:** 29
-- **Medium:** 37
+- **Medium:** 38
 - **Hard:** 0
 
 ---
