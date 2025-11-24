@@ -80,6 +80,8 @@ Each problem includes:
 | 65  | Set Matrix Zeroes                | Medium     | [View](./problem-65-set-matrix-zeroes)          |
 | 66  | Find Peak Element                | Medium     | [View](./problem-66-find-peak-element)          |
 | 67  | Container With Most Water        | Medium     | [View](./problem-67-container-water)            |
+| 68  | Trapping Rain Water              | Hard       | [View](./problem-68-trapping-rain-water)        |
+
 ---
 
 ## 🛠️ How to Run
@@ -106,10 +108,10 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 67
+- **Total Problems Solved:** 68
 - **Easy:** 29
 - **Medium:** 38
-- **Hard:** 0
+- **Hard:** 1
 
 ---
 
