@@ -81,6 +81,7 @@ Each problem includes:
 | 66  | Find Peak Element                | Medium     | [View](./problem-66-find-peak-element)          |
 | 67  | Container With Most Water        | Medium     | [View](./problem-67-container-water)            |
 | 68  | Trapping Rain Water              | Hard       | [View](./problem-68-trapping-rain-water)        |
+| 69  | Sort Colors                      | Medium     | [View](./problem-69-sort-colors)                |
 
 ---
 
@@ -108,9 +109,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 68
+- **Total Problems Solved:** 69
 - **Easy:** 29
-- **Medium:** 38
+- **Medium:** 39
 - **Hard:** 1
 
 ---
