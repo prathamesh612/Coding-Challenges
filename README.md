@@ -83,6 +83,7 @@ Each problem includes:
 | 68  | Trapping Rain Water              | Hard       | [View](./problem-68-trapping-rain-water)        |
 | 69  | Sort Colors                      | Medium     | [View](./problem-69-sort-colors)                |
 | 70  | Move Zeroes to End               | Easy       | [View](./problem-70-move-zeroes)                |
+| 71  | Subsets                          | Medium     | [View](./problem-71-subsets)                    |
 
 ---
 
@@ -110,9 +111,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 70
+- **Total Problems Solved:** 71
 - **Easy:** 30
-- **Medium:** 39
+- **Medium:** 40
 - **Hard:** 1
 
 ---
