@@ -84,6 +84,7 @@ Each problem includes:
 | 69  | Sort Colors                      | Medium     | [View](./problem-69-sort-colors)                |
 | 70  | Move Zeroes to End               | Easy       | [View](./problem-70-move-zeroes)                |
 | 71  | Subsets                          | Medium     | [View](./problem-71-subsets)                    |
+| 72  | N-Queens Problem                 | Hard       | [View](./problem-72-n-queens)                   |
 
 ---
 
