@@ -85,6 +85,7 @@ Each problem includes:
 | 70  | Move Zeroes to End               | Easy       | [View](./problem-70-move-zeroes)                |
 | 71  | Subsets                          | Medium     | [View](./problem-71-subsets)                    |
 | 72  | N-Queens Problem                 | Hard       | [View](./problem-72-n-queens)                   |
+| 73  | Binary Tree Paths                | Easy       | [View](./problem-73-binary-tree-paths)          |
 
 ---
 
@@ -112,10 +113,10 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 71
-- **Easy:** 30
+- **Total Problems Solved:** 73
+- **Easy:** 31
 - **Medium:** 40
-- **Hard:** 1
+- **Hard:** 2
 
 ---
 
