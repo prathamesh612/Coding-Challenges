@@ -86,6 +86,7 @@ Each problem includes:
 | 71  | Subsets                          | Medium     | [View](./problem-71-subsets)                    |
 | 72  | N-Queens Problem                 | Hard       | [View](./problem-72-n-queens)                   |
 | 73  | Binary Tree Paths                | Easy       | [View](./problem-73-binary-tree-paths)          |
+| 74  | Generate Parentheses             | Medium     | [View](./problem-74-generate-parentheses)       |
 
 ---
 
@@ -113,9 +114,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 73
+- **Total Problems Solved:** 74
 - **Easy:** 31
-- **Medium:** 40
+- **Medium:** 41
 - **Hard:** 2
 
 ---
