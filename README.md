@@ -87,6 +87,7 @@ Each problem includes:
 | 72  | N-Queens Problem                 | Hard       | [View](./problem-72-n-queens)                   |
 | 73  | Binary Tree Paths                | Easy       | [View](./problem-73-binary-tree-paths)          |
 | 74  | Generate Parentheses             | Medium     | [View](./problem-74-generate-parentheses)       |
+| 75  | Happy Number                     | Easy       | [View](./problem-75-happy-number)               |
 
 ---
 
@@ -114,8 +115,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 74
-- **Easy:** 31
+- **Total Problems Solved:** 75
+- **Easy:** 32
 - **Medium:** 41
 - **Hard:** 2
 
