@@ -89,6 +89,7 @@ Each problem includes:
 | 74  | Generate Parentheses                       | Medium     | [View](./problem-74-generate-parentheses)       |
 | 75  | Happy Number                               | Easy       | [View](./problem-75-happy-number)               |
 | 76  | Largest Substring Between Equal Characters | Easy       | [View](./problem-76-largest-substring)          |
+| 77  | Edit Distance                              | Medium     | [View](./problem-77-edit-distance)              |
 
 ---
 
@@ -116,9 +117,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 76
+- **Total Problems Solved:** 77
 - **Easy:** 33
-- **Medium:** 41
+- **Medium:** 42
 - **Hard:** 2
 
 ---
