@@ -90,6 +90,7 @@ Each problem includes:
 | 75  | Happy Number                               | Easy       | [View](./problem-75-happy-number)               |
 | 76  | Largest Substring Between Equal Characters | Easy       | [View](./problem-76-largest-substring)          |
 | 77  | Edit Distance                              | Medium     | [View](./problem-77-edit-distance)              |
+| 78  | Gas Station                                | Medium     | [View](./problem-78-gas-station)                |
 
 ---
 
@@ -117,9 +118,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 77
+- **Total Problems Solved:** 78
 - **Easy:** 33
-- **Medium:** 42
+- **Medium:** 43
 - **Hard:** 2
 
 ---
