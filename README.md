@@ -91,6 +91,7 @@ Each problem includes:
 | 76  | Largest Substring Between Equal Characters | Easy       | [View](./problem-76-largest-substring)          |
 | 77  | Edit Distance                              | Medium     | [View](./problem-77-edit-distance)              |
 | 78  | Gas Station                                | Medium     | [View](./problem-78-gas-station)                |
+| 79  | Activity Selection                         | Medium     | [View](./problem-79-activity-selection)         |
 
 ---
 
@@ -118,9 +119,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 78
+- **Total Problems Solved:** 79
 - **Easy:** 33
-- **Medium:** 43
+- **Medium:** 44
 - **Hard:** 2
 
 ---
