@@ -92,6 +92,7 @@ Each problem includes:
 | 77  | Edit Distance                              | Medium     | [View](./problem-77-edit-distance)              |
 | 78  | Gas Station                                | Medium     | [View](./problem-78-gas-station)                |
 | 79  | Activity Selection                         | Medium     | [View](./problem-79-activity-selection)         |
+| 80  | Jump Game                                  | Medium     | [View](./problem-80-jump-game)                  |
 
 ---
 
@@ -119,9 +120,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 79
+- **Total Problems Solved:** 80
 - **Easy:** 33
-- **Medium:** 44
+- **Medium:** 45
 - **Hard:** 2
 
 ---
