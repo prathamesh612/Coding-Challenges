@@ -93,6 +93,7 @@ Each problem includes:
 | 78  | Gas Station                                | Medium     | [View](./problem-78-gas-station)                |
 | 79  | Activity Selection                         | Medium     | [View](./problem-79-activity-selection)         |
 | 80  | Jump Game                                  | Medium     | [View](./problem-80-jump-game)                  |
+| 81  | Maximum Ascending Subarray Sum             | Easy       | [View](./problem-81-max-ascending-subarray-sum) |
 
 ---
 
@@ -120,8 +121,8 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 80
-- **Easy:** 33
+- **Total Problems Solved:** 81
+- **Easy:** 34
 - **Medium:** 45
 - **Hard:** 2
 
