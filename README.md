@@ -94,6 +94,7 @@ Each problem includes:
 | 79  | Activity Selection                         | Medium     | [View](./problem-79-activity-selection)         |
 | 80  | Jump Game                                  | Medium     | [View](./problem-80-jump-game)                  |
 | 81  | Maximum Ascending Subarray Sum             | Easy       | [View](./problem-81-max-ascending-subarray-sum) |
+| 82  | Minimum Cost to Merge Stones               | Hard       | [View](./problem-82-min-cost-merge-stones)      |
 
 ---
 
@@ -121,10 +122,10 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 81
+- **Total Problems Solved:** 82
 - **Easy:** 34
 - **Medium:** 45
-- **Hard:** 2
+- **Hard:** 3
 
 ---
 
