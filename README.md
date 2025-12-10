@@ -96,6 +96,7 @@ Each problem includes:
 | 81  | Maximum Ascending Subarray Sum             | Easy       | [View](./problem-81-max-ascending-subarray-sum)  |
 | 82  | Minimum Cost to Merge Stones               | Hard       | [View](./problem-82-min-cost-merge-stones)       |
 | 83  | Search in Rotated Sorted Array             | Medium     | [View](./problem-83-search-rotated-sorted-array) |
+| 84  | Find First and Last Position of Element    | Medium     | [View](./problem-84-find-first-last-position)    |
 
 ---
 
@@ -123,9 +124,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 83
+- **Total Problems Solved:** 84
 - **Easy:** 34
-- **Medium:** 46
+- **Medium:** 47
 - **Hard:** 3
 
 ---
