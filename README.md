@@ -97,6 +97,7 @@ Each problem includes:
 | 82  | Minimum Cost to Merge Stones               | Hard       | [View](./problem-82-min-cost-merge-stones)       |
 | 83  | Search in Rotated Sorted Array             | Medium     | [View](./problem-83-search-rotated-sorted-array) |
 | 84  | Find First and Last Position of Element    | Medium     | [View](./problem-84-find-first-last-position)    |
+| 85  | Koko Eating Bananas                        | Medium     | [View](./problem-85-koko-eating-bananas)         |
 
 ---
 
@@ -124,9 +125,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 84
+- **Total Problems Solved:** 85
 - **Easy:** 34
-- **Medium:** 47
+- **Medium:** 48
 - **Hard:** 3
 
 ---
