@@ -98,6 +98,7 @@ Each problem includes:
 | 83  | Search in Rotated Sorted Array             | Medium     | [View](./problem-83-search-rotated-sorted-array) |
 | 84  | Find First and Last Position of Element    | Medium     | [View](./problem-84-find-first-last-position)    |
 | 85  | Koko Eating Bananas                        | Medium     | [View](./problem-85-koko-eating-bananas)         |
+| 86  | Median of Two Sorted Arrays                | Hard       | [View](./problem-86-median-two-sorted-arrays)    |
 
 ---
 
@@ -125,10 +126,10 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 85
+- **Total Problems Solved:** 86
 - **Easy:** 34
 - **Medium:** 48
-- **Hard:** 3
+- **Hard:** 4
 
 ---
 
