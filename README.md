@@ -100,6 +100,7 @@ Each problem includes:
 | 85  | Koko Eating Bananas                        | Medium     | [View](./problem-85-koko-eating-bananas)         |
 | 86  | Median of Two Sorted Arrays                | Hard       | [View](./problem-86-median-two-sorted-arrays)    |
 | 87  | Split Array Largest Sum                    | Hard       | [View](./problem-87-split-array-largest-sum)     |
+| 88  | Number of Islands                          | Medium     | [View](./problem-88-number-of-islands)           |
 
 ---
 
@@ -127,9 +128,9 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 87
+- **Total Problems Solved:** 88
 - **Easy:** 34
-- **Medium:** 48
+- **Medium:** 49
 - **Hard:** 5
 
 ---
