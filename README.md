@@ -99,6 +99,7 @@ Each problem includes:
 | 84  | Find First and Last Position of Element    | Medium     | [View](./problem-84-find-first-last-position)    |
 | 85  | Koko Eating Bananas                        | Medium     | [View](./problem-85-koko-eating-bananas)         |
 | 86  | Median of Two Sorted Arrays                | Hard       | [View](./problem-86-median-two-sorted-arrays)    |
+| 87  | Split Array Largest Sum                    | Hard       | [View](./problem-87-split-array-largest-sum)     |
 
 ---
 
@@ -126,10 +127,10 @@ java VowelBalance
 
 ## 📊 Progress Tracker
 
-- **Total Problems Solved:** 86
+- **Total Problems Solved:** 87
 - **Easy:** 34
 - **Medium:** 48
-- **Hard:** 4
+- **Hard:** 5
 
 ---
 
